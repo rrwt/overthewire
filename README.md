@@ -1,2 +1,5 @@
-# overthewire
-Solutions for overthewire.org problems
+# OverTheWire
+
+Solutions for [overthewire](https://overthewire.org/wargames/) wargames
+
+* [Bandit](https://overthewire.org/wargames/bandit/)
